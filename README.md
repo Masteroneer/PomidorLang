@@ -1,7 +1,9 @@
-# PomidorLang - is a visual programming language.
+## PomidorLang - is a visual programming language.
 
 PomidorLang (Senior pomidor developer) - это визуальный, функциональный язык программирования, основная идея которого заключается не в полной замене остальных языков программирования, а лишь их расширении путем добавления более высокой абстракции.
 
-# Как должно работать?
-Для этого стоит рассмотреть пример программы.
-В качестве примера можно рассмотреть
+## Обзор языка
+
+![](res/variable.png =100x)
+
+![](res/fibonachiExample.png)
